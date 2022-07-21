@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DavidAuditore99/Portafolio/static/css/main.073c9b0a.css",
-    "main.js": "/DavidAuditore99/Portafolio/static/js/main.c642caf7.js",
-    "static/js/787.5b5dfee8.chunk.js": "/DavidAuditore99/Portafolio/static/js/787.5b5dfee8.chunk.js",
-    "static/media/logo.svg": "/DavidAuditore99/Portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DavidAuditore99/Portafolio/index.html",
-    "main.073c9b0a.css.map": "/DavidAuditore99/Portafolio/static/css/main.073c9b0a.css.map",
-    "main.c642caf7.js.map": "/DavidAuditore99/Portafolio/static/js/main.c642caf7.js.map",
-    "787.5b5dfee8.chunk.js.map": "/DavidAuditore99/Portafolio/static/js/787.5b5dfee8.chunk.js.map"
+    "main.css": "/Portafolio/static/css/main.073c9b0a.css",
+    "main.js": "/Portafolio/static/js/main.2ed76933.js",
+    "static/js/787.5b5dfee8.chunk.js": "/Portafolio/static/js/787.5b5dfee8.chunk.js",
+    "static/media/logo.svg": "/Portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portafolio/index.html",
+    "main.073c9b0a.css.map": "/Portafolio/static/css/main.073c9b0a.css.map",
+    "main.2ed76933.js.map": "/Portafolio/static/js/main.2ed76933.js.map",
+    "787.5b5dfee8.chunk.js.map": "/Portafolio/static/js/787.5b5dfee8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c642caf7.js"
+    "static/js/main.2ed76933.js"
   ]
 }
